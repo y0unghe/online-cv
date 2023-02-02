@@ -19,8 +19,8 @@ sidebar:
     website: 
     linkedin: 
     xing: 
-    github: 
-    telegram: # add your nickname without '@' sign
+    github: y0unghe
+    telegram:
     gitlab:
     bitbucket:
     twitter: 
@@ -29,28 +29,10 @@ sidebar:
     goodreads: 
     pdf: 
 
-    languages:
-      title: 语言
-      info:
-        - idiom: 中文
-          level: Native
-
-        - idiom: English
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Movie
-          link:
-
-        - item: Music
-          link:
-
 career-profile:
     title: Career Profile
     summary: |
-      7年+ iOS原生开发、Flutter移动应用开发、Web全栈开发、Java后端开发包括Spring Boot、Mysql、Mongodb、以太坊合约开发:Solidity、Ether.js、发行过NFT、开发了一个NFT Mint工具
+      Web3全栈开发工程师，有丰富的Dapp开发经验。Solidity开发工程师，发过NFT并开发过Defi App。Java后端开发，熟悉Spring Boot开发API。移动端开发包括iOS和Flutter。
 education:
     title: 学历
     info:
@@ -62,25 +44,33 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Web3开发工程师
+      - role: Web3前端工程师
         time: 2022 - Present
-        company: Freelance
+        company: Dogeswap
+        details: |
+          独立完成https://dogeswap.one的前端开发。使用Typescript, React.js, Next.js和TailwindCSS完成Defi App的前端开发。
+
+      - role: Web3开发工程师
+        time: 2020 - 2022
+        company: Web3Techno
         details: |
           使用Flutter开发Move 2 Earn项目MOVE2，上架了Google 商店。MOVE2功能包括GPS定位、内置Polygon钱包、内置NFT鞋子的购买和销售等。
-          MOVE2后端使用Spring Boot+Mysql开发，为MOVE2移动App提供API服务。
+          MOVE2后端使用Spring Boot + Mysql开发，为MOVE2移动App提供API服务。
           发行了2款NFT，SquareGuyz和Pandaverse。
           使用React、Tailwind CSS、Ethers.js搭建了2款NFT的在线Mint网站。
           开发了一款NFT Mint工具，功能包括跟单、实时NFT Mint列表、抢NFT公售等。
-      - role: 移动端开发工程师
-        time: 2020 - 2022
+          
+      - role: Mobile开发工程师
+        time: 2015 - 2020
         company: 成都茂松软件
         details: |
           独立完成iOS Dating App - Ceek的开发。App类似Tinder等陌生社交。使用Flutter独立完成视频社交App - Chatpo的开发。
           上架了Google 应用商店和苹果商店。解决了Google和苹果上架过程遇到的审核不通过的问题。
           集成了Google和苹果的内购功能。
           继承并使用腾讯音视频Flutter SDK，并开发了音视频通话和文字语音聊天功能。
+
       - role: 全栈开发工程师
-        time: 2015 - 2020
+        time: 2011 - 2015
         company: Balluun, USA
         details: |
           独立负责ShopToys365和Orders Pro的iOS客户端的开发、测试、迭代和上架。
@@ -89,26 +79,24 @@ experiences:
           参与API的设计、测试和前端对接。
           参与开发技术评估、框架搭建及可行性分析。
           使用Fabric发布Ad-Hoc测试版本，收集并处理Crash日志。
+          
       - role: iOS开发工程师
-        time: 2013 - 2015
+        time: 2009 - 2011
         company: 成都易我科技
         details: |
           参与Caldo、Duorey和Fincus的iOS客户端开发。
           参与API的设计、测试和前端对接。
           参与开发技术评估、框架搭建及可行性分析。
           负责需求评审，接口定义和Debug疑难问题。
-      - role: Web开发工程师
-        time: 2009 - 2012
-        company: 广州新里程教育
-        details: |
-          独立负责eng4u.cn网站的前端开发。
-          独立负责教育中心的网上培训中心的开发和搭建。
-          使用Wordpress、Magento快速搭建门户以及电商网站。
 projects:
     title: Projects
     intro: >
       我开发的项目以及作品如下
     assignments:
+      - title: Dogeswap
+        link: "https://dogeswap.one"
+        tagline: "Aptost链上的一款Defi app，功能包括swap、添加流动性、代币创建等"
+
       - title: MOVE2
         link: "https://themove2.com"
         tagline: "使用Flutter独立开发完成的一款Move 2 Earn项目，目前上架了Google商店"
@@ -145,20 +133,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Objective-C
-        level: 98%
+      - name: Typescript Node.js React Tailwindcss
+        level: 88%
+        
+      - name: Solidity
+        level: 88%
 
       - name: Flutter
-        level: 98%
-
-      - name: Solidity & Ether.js
-        level: 88%
-
-      - name: React & TailwindCSS
-        level: 88%
+        level: 80%
 
       - name: Java & Spring Boot
-        level: 78%
+        level: 80%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Objective-C
+        level: 98%
