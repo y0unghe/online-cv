@@ -32,7 +32,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Web3全栈开发工程师，有丰富的Dapp开发经验。Solidity开发工程师，发过NFT并开发过Defi App。Java后端开发，熟悉Spring Boot开发API。移动端开发包括iOS和Flutter。
+      Web3全栈开发工程师，有丰富的Dapp开发经验。开发过NFT Mint网站、Defi Swap网站等。Solidity开发工程师，发过NFT。Java后端开发，熟悉Spring Boot开发API。移动端开发包括iOS和Flutter。
 education:
     title: 学历
     info:
@@ -48,7 +48,7 @@ experiences:
         time: 2022 - Present
         company: Dogeswap
         details: |
-          独立完成https://dogeswap.one的前端开发。使用Typescript, React.js, Next.js和TailwindCSS完成Defi App的前端开发。
+          独立完成dogeswap.one的前端开发。使用Typescript, React.js, Next.js和TailwindCSS完成Defi App的前端开发。
 
       - role: Web3开发工程师
         time: 2020 - 2022
@@ -79,7 +79,7 @@ experiences:
           参与API的设计、测试和前端对接。
           参与开发技术评估、框架搭建及可行性分析。
           使用Fabric发布Ad-Hoc测试版本，收集并处理Crash日志。
-          
+
       - role: iOS开发工程师
         time: 2009 - 2011
         company: 成都易我科技
