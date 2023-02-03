@@ -37,7 +37,7 @@ education:
     title: 学历
     info:
       - degree: 本科
-        university: 成都东软信息技术学院 / 计算机科学于技术
+        university: 成都信息工程大学 / 计算机科学于技术
         time: 2004 - 2008
         details: |
           
@@ -48,46 +48,37 @@ experiences:
         time: 2022 - Present
         company: Dogeswap
         details: |
-          独立完成dogeswap.one的前端开发。使用Typescript, React.js, Next.js和TailwindCSS完成Defi App的前端开发。
+          * 独立完成dogeswap.one的前端开发。使用Typescript, React.js, Next.js和TailwindCSS完成Defi App的前端开发。
 
       - role: Web3开发工程师
         time: 2020 - 2022
         company: Web3Techno
         details: |
-          使用Flutter开发Move 2 Earn项目MOVE2，上架了Google 商店。MOVE2功能包括GPS定位、内置Polygon钱包、内置NFT鞋子的购买和销售等。
-          MOVE2后端使用Spring Boot + Mysql开发，为MOVE2移动App提供API服务。
-          发行了2款NFT，SquareGuyz和Pandaverse。
-          使用React、Tailwind CSS、Ethers.js搭建了2款NFT的在线Mint网站。
-          开发了一款NFT Mint工具，功能包括跟单、实时NFT Mint列表、抢NFT公售等。
+          * 发行了2款NFT: SquareGuyz和Pandaverse，使用Solidity开发NFT mint合约，使用React、Tailwind CSS、Ethers.js搭建了2款NFT的在线Mint网站。
           
-      - role: Mobile开发工程师
+          * 开发了一款NFT Mint工具，功能包括跟单、实时NFT Mint列表、抢NFT公售等。
+
+          * 使用Flutter开发Move 2 Earn项目MOVE2，上架了Google 商店。MOVE2功能包括GPS定位、内置Polygon钱包、内置NFT鞋子的购买和销售等。
+
+          * MOVE2后端使用Spring Boot + Mysql开发，为MOVE2移动App提供API服务。
+
+      - role: Web前端工程师
         time: 2015 - 2020
         company: 成都茂松软件
         details: |
-          独立完成iOS Dating App - Ceek的开发。App类似Tinder等陌生社交。使用Flutter独立完成视频社交App - Chatpo的开发。
-          上架了Google 应用商店和苹果商店。解决了Google和苹果上架过程遇到的审核不通过的问题。
-          集成了Google和苹果的内购功能。
-          继承并使用腾讯音视频Flutter SDK，并开发了音视频通话和文字语音聊天功能。
+          * 参与Dating社交网站的Web前端开发。包括positivesingles.com 和 millionairematch.com。使用HTML CSS Javascription完成前端开发。
 
       - role: iOS开发工程师
         time: 2011 - 2015
         company: Balluun, USA
         details: |
-          独立负责ShopToys365和Orders Pro的iOS客户端的开发、测试、迭代和上架。
-          负责iOS框架搭建以及开发。负责和产品经理对接整理需求，需求时间评估。
-          参与公司的主页和后台网站的前后端开发。
-          参与API的设计、测试和前端对接。
-          参与开发技术评估、框架搭建及可行性分析。
-          使用Fabric发布Ad-Hoc测试版本，收集并处理Crash日志。
+          * 独立负责ShopToys365和Orders Pro的iOS客户端的开发、测试、迭代和上架。
 
       - role: iOS开发工程师
         time: 2009 - 2011
         company: 成都易我科技
         details: |
-          参与Caldo、Duorey和Fincus的iOS客户端开发。
-          参与API的设计、测试和前端对接。
-          参与开发技术评估、框架搭建及可行性分析。
-          负责需求评审，接口定义和Debug疑难问题。
+          * 参与Caldo、Duorey和Fincus的iOS客户端开发。
 projects:
     title: Projects
     intro: >
@@ -113,13 +104,13 @@ projects:
         link: "https://mintace.xyz/"
         tagline: "一款NFT Mint工具，功能包括跟单、实时NFT Mint列表、抢NFT公售等"
 
-      - title: Chatpo
-        link: "#"
-        tagline: "Chatpo是一款陌生人音视频社交App。可以查看全世界用户的在线列表，开启视频随机聊天。加入了应用内购功能。"
+      - title: PositiveSingles
+        link: "https://positivesingles.com/"
+        tagline: "Dating 网站"
 
-      - title: Ceek
-        link: "#"
-        tagline: "Ceek是一款类似于Tinder的陌生人社交功能。用户可以浏览用户的基本信息、点赞、聊天。加入了苹果的内购功能。"
+      - title: MillionaireMatch
+        link: "https://millionairematch.com/"
+        tagline: "Dating 网站"
 
       - title: ShopToys365
         link: "https://apps.apple.com/us/app/shoptoys365/id780971801?l=zh"
@@ -128,22 +119,3 @@ projects:
       - title: Orders Pro
         link: "#"
         tagline: "Orders Pro是一款用于展会上商家下单的iPad应用。使用Google Firebase iOS SDK开发了App数据获取、离线缓存以及离线下单功能"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Typescript Node.js React Tailwindcss
-        level: 88%
-        
-      - name: Solidity
-        level: 88%
-
-      - name: Flutter
-        level: 80%
-
-      - name: Java & Spring Boot
-        level: 80%
-
-      - name: Objective-C
-        level: 98%
